@@ -1,4 +1,4 @@
-# Mining-Equipment-Condition-Monitoring
+# Mining Equipment Condition Monitoring
 
 The following report shows information on each component of mining equipment at certain operations, enabling real-time monitoring of its status during operating hours. This report sends an alert to the mining operations departments when an anomaly is detected, enabling them to take preventive action to prevent equipment damage.
 
